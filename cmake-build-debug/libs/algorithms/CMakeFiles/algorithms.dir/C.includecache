@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sergey Bondarenko/CLionProjects/course/libs/algorithms/array/array.c
+stdio.h
+-
+limits.h
+-
+assert.h
+-
+array.h
+C:/Users/Sergey Bondarenko/CLionProjects/course/libs/algorithms/array/array.h
+
+C:/Users/Sergey Bondarenko/CLionProjects/course/libs/algorithms/array/array.h
+
